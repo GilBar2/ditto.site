@@ -55,5 +55,6 @@ never commit one. Rotate a leaked key anytime from the dashboard. See
 - [METHODOLOGY.md](METHODOLOGY.md) — how the compiler is developed and evaluated.
 - [RESPONSIBLE_USE.md](RESPONSIBLE_USE.md) — acceptable-use boundaries.
 - [RELEASING.md](RELEASING.md) — release process.
+- [open-source-repos.md](open-source-repos.md) — list of open-source AI agent repos.
 - [../compiler/README.md](../compiler/README.md) — local compiler commands.
 - [../packages/cli/README.md](../packages/cli/README.md) — the repo-local unpack CLI.
