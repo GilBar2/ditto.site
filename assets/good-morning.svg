@@ -2,8 +2,8 @@
   <title>Claude says: Good morning</title>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FAF9F5"/>
-      <stop offset="1" stop-color="#F0E6DC"/>
+      <stop offset="0" stop-color="#0B1F4D"/>
+      <stop offset="1" stop-color="#8EC5FF"/>
     </linearGradient>
   </defs>
   <rect width="800" height="300" rx="28" fill="url(#sky)"/>
@@ -19,7 +19,7 @@
       <line x1="-90" y1="0" x2="-110" y2="0"/>
     </g>
   </g>
-  <line x1="60" y1="250" x2="740" y2="250" stroke="#C4B5A5" stroke-width="2"/>
-  <text x="400" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="4" fill="#8A7B6E">CLAUDE SAYS</text>
-  <text x="400" y="165" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="86" fill="#3D3929">Good morning</text>
+  <line x1="60" y1="250" x2="740" y2="250" stroke="#E6F1FF" stroke-width="2"/>
+  <text x="400" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="4" fill="#C9DCF5">CLAUDE SAYS</text>
+  <text x="400" y="165" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="86" fill="#FFFFFF">Good morning</text>
 </svg>
