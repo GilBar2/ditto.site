@@ -39,6 +39,14 @@
     <circle cx="-6" cy="-1" r="1.2" fill="#8EC5FF"/><circle cx="-1" cy="-1" r="1.2" fill="#8EC5FF"/><circle cx="4" cy="-1" r="1.2" fill="#8EC5FF"/>
     <path d="M-2 -3 L-16 -13 L-8 -13 L10 -3 Z" fill="#F4F7FB"/>
   </g>
+  <!-- hot air balloon -->
+  <g transform="translate(728 118) scale(0.8)">
+    <path d="M-1 52 L-7 66 M1 52 L7 66" stroke="#8A7B6E" stroke-width="1.5"/>
+    <rect x="-8" y="50" width="16" height="10" rx="2" fill="#8A4B1F"/>
+    <path d="M0 -40 C-30 -40 -34 -10 -26 14 C-20 34 -8 48 0 50 C8 48 20 34 26 14 C34 -10 30 -40 0 -40 Z" fill="#FF8A2A"/>
+    <path d="M-10 -38 C-22 -20 -22 20 -4 50 L-8 50 C-26 20 -26 -20 -14 -38 Z" fill="#FFB36B" opacity="0.7"/>
+    <path d="M0 -40 L0 50" stroke="#E0701A" stroke-width="1.5" opacity="0.6"/>
+  </g>
   <!-- rising sun -->
   <g transform="translate(400 250)">
     <circle r="70" fill="#D97757" opacity="0.18"/>
