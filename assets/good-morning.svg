@@ -58,14 +58,18 @@
     <path transform="translate(470 110) scale(0.8)" d="M-12 0 Q-6 -7 0 0 Q6 -7 12 0"/>
     <path transform="translate(488 98) scale(0.7)" d="M-12 0 Q-6 -7 0 0 Q6 -7 12 0"/>
   </g>
-  <!-- moon -->
+  <!-- strawberry -->
   <g transform="translate(40 42)">
-    <circle r="26" fill="#FFF6D6" opacity="0.18"/>
-    <circle r="17" fill="#FFF3C4"/>
-    <g fill="#E8D9A6" opacity="0.7"><circle cx="-5" cy="-4" r="3"/><circle cx="6" cy="5" r="2.2"/><circle cx="3" cy="-7" r="1.6"/></g>
+    <path d="M0 -11 C-14 -17 -20 -6 -18 2 C-16 12 -6 21 0 22 C6 21 16 12 18 2 C20 -6 14 -17 0 -11 Z" fill="#E8353F"/>
+    <path d="M-6 -12 C-12 -16 -10 -12 -4 -8 Z M6 -12 C12 -16 10 -12 4 -8 Z" fill="#2F9E4A"/>
+    <path d="M0 -11 L-9 -20 L-4 -10 L0 -22 L4 -10 L9 -20 Z" fill="#3FB35A"/>
+    <path d="M0 -11 L0 -22" stroke="#2A7F3C" stroke-width="2" stroke-linecap="round"/>
+    <g fill="#FFE27A">
+      <ellipse cx="-8" cy="-3" rx="1.4" ry="2"/><ellipse cx="0" cy="-4" rx="1.4" ry="2"/><ellipse cx="8" cy="-3" rx="1.4" ry="2"/>
+      <ellipse cx="-11" cy="6" rx="1.3" ry="1.9"/><ellipse cx="-4" cy="5" rx="1.3" ry="1.9"/><ellipse cx="4" cy="5" rx="1.3" ry="1.9"/><ellipse cx="11" cy="6" rx="1.3" ry="1.9"/>
+      <ellipse cx="-6" cy="14" rx="1.2" ry="1.7"/><ellipse cx="6" cy="14" rx="1.2" ry="1.7"/><ellipse cx="0" cy="11" rx="1.2" ry="1.7"/>
+    </g>
   </g>
-  <!-- one more bird -->
-  <path transform="translate(686 178) scale(0.85)" d="M-12 0 Q-6 -7 0 0 Q6 -7 12 0" fill="none" stroke="#1B2A4A" stroke-width="2.2" stroke-linecap="round"/>
   <!-- rising sun -->
   <g transform="translate(400 250)">
     <circle r="70" fill="#D97757" opacity="0.18"/>
