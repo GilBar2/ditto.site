@@ -67,11 +67,7 @@
   <!-- rising sun -->
   <g transform="translate(400 250)">
     <circle r="70" fill="#D97757" opacity="0.18"/>
-    <g opacity="0.35" fill="#D97757">
-      <circle r="46"/>
-      <path d="M-34 -22 L-40 -62 L-8 -40 Z"/>
-      <path d="M34 -22 L40 -62 L8 -40 Z"/>
-    </g>
+    <circle r="46" fill="#D97757" opacity="0.35"/>
     <g fill="#8A3F1C" stroke="none"><circle cx="-16" cy="-10" r="4.5"/><circle cx="16" cy="-10" r="4.5"/></g>
     <path d="M-20 6 Q0 26 20 6" fill="none" stroke="#8A3F1C" stroke-width="4" stroke-linecap="round"/>
     <g stroke="#D97757" stroke-width="5" stroke-linecap="round" opacity="0.6">
