@@ -63,6 +63,11 @@
       <ellipse cx="-6" cy="14" rx="1.2" ry="1.7"/><ellipse cx="6" cy="14" rx="1.2" ry="1.7"/><ellipse cx="0" cy="11" rx="1.2" ry="1.7"/>
     </g>
   </g>
+  <!-- two pink birds -->
+  <g fill="none" stroke="#E56B9A" stroke-width="2.6" stroke-linecap="round">
+    <path transform="translate(212 208) scale(0.95)" d="M-12 0 Q-6 -7 0 0 Q6 -7 12 0"/>
+    <path transform="translate(236 196) scale(0.8)" d="M-12 0 Q-6 -7 0 0 Q6 -7 12 0"/>
+  </g>
   <!-- rising sun -->
   <g transform="translate(400 250)">
     <circle r="70" fill="#D97757" opacity="0.18"/>
